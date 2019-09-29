@@ -7,4 +7,4 @@ USAGE:
 
 chmod +x scanner.py
 
-python3 scanner.py  <IP>
+python3 scanner.py  IP
